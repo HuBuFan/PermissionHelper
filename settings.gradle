@@ -1,0 +1,3 @@
+rootProject.name='UrPermissionHelper'
+include ':app'
+include ':library'
