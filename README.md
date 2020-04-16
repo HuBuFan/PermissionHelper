@@ -17,8 +17,6 @@ allprojects {
 ``` 
 UrPermissionHelper.getInstance().with(this)
         .addPermission(Manifest.permission.CAMERA)
-        .addPermission(Manifest.permission.READ_PHONE_STATE)
-        .addPermission(Manifest.permission.CALL_PHONE)
         ...
         .addPermissionListener(new UrPermissionListener() {
 
