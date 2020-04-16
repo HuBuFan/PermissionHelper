@@ -1,5 +1,4 @@
-# UrPermissionHelper
-6.0+权限相关使用：
+超级nice的6.0+权限请求
 
 ``` 
 dependencies {
@@ -13,7 +12,7 @@ allprojects {
     }
 }
 ``` 
-使用方式：
+- 使用方式：
 
 ``` 
 UrPermissionHelper.getInstance().with(this)
