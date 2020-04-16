@@ -3,7 +3,7 @@
 
 ``` 
 dependencies {
-        implementation 'com.github.HuBuFan:UrPermissionHelper:v1.1.0'
+        implementation 'com.github.HuBuFan:UrPermissionHelper:latestVersion'
 }
 
 allprojects {
